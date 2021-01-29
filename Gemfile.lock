@@ -140,7 +140,7 @@ PLATFORMS
 DEPENDENCIES
   bundler
   devlopr (~> 0.4.5)
-  jekyll (~> 4.1, >= 4.1.1)
+  jekyll (~> 3.8.4, >= 4.1.1)
   jekyll-admin (~> 0.10.2)
   jekyll-gist (~> 1.5.0)
   jekyll-menus (~> 0.6.1)
